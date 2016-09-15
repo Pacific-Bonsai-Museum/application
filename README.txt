@@ -1,1 +1,1 @@
-ECHO is on.
+Configuration for the PBM.
